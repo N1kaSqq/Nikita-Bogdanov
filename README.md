@@ -9,3 +9,4 @@ Here will be links to my projects:
 [Виртуальная клавиатура](https://n1kasqq.github.io/Codejam-virtual-keyboard/)  
 [Moviesearch](https://n1kasqq-moviesearch.netlify.app)  
 [English for kids](https://n1kasqq-english-for-kids.netlify.app)  
+[NodeJS shop repo](https://github.com/N1kaSqq/NodeJS)  
